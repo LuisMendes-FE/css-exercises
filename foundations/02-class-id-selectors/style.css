@@ -1,0 +1,21 @@
+p.odd-number {
+  background-color: #ffc0cb;
+  font-family: Verdana, DejaVu, sans-serif;
+  color: #000000;
+}
+
+div#blue {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+div#green {
+  color: #000000;
+  font-weight: bold;
+  font-size: 24px;
+  background-color: #0de90d;
+}
+
+p.odd-number.cooler {
+  font-size: 24px;
+}
